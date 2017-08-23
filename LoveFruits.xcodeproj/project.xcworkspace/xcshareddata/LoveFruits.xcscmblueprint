@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6c19f883-813e-1245-9cdb-f21ff4ece711++3519",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6c19f883-813e-1245-9cdb-f21ff4ece711++3519" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6c19f883-813e-1245-9cdb-f21ff4ece711++3519" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8ECE78EA-3CB3-4D32-BDDF-85CCD51B78DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6c19f883-813e-1245-9cdb-f21ff4ece711++3519" : "Code\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LoveFruits",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ios\/LoveFruits\/LoveFruits.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/123.56.227.137:8080\/svn\/ZhenWeiShiJia",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6c19f883-813e-1245-9cdb-f21ff4ece711++3519"
+    }
+  ]
+}
